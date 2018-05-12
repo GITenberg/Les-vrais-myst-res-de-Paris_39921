@@ -1,0 +1,33 @@
+_repo: Les-vrais-myst-res-de-Paris_39921
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39921-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Vidocq, Eugène François
+    aliases:
+    - Vidocq, François
+    - Vidocq, Eugene Francois
+    birthdate: 1775
+    deathdate: 1857
+    gutenberg_agent_id: '6191'
+    url: http://www.gutenberg.org/2009/agents/6191
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_François_Vidocq
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39921'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Detective and mystery stories, French'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+title: Les vrais mystères de Paris
+url: http://www.gutenberg.org/ebooks/39921
